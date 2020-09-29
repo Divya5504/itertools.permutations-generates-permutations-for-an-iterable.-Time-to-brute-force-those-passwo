@@ -1,0 +1,1 @@
+# itertools.permutations-generates-permutations-for-an-iterable.-Time-to-brute-force-those-passwo
